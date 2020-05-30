@@ -30,5 +30,5 @@ A Program that lifts some windows restrictions put in place by schools
  
  
  
-  I AM NOT RESPONIBLE FOR ANY HARM DONE TO YOUR PC, Although tested on mulitiple pcs with no error, i still need to say this to proect myself
+  I AM NOT RESPONIBLE FOR ANY HARM DONE TO YOUR PC, Although tested on mulitiple pcs with no error, i still need to say this to protect myself
  
