@@ -16,7 +16,7 @@ A Program that lifts some windows restrictions put in place by schools
   
   Right click menu on taskbar
   
-  Security tab in a files properys
+  Security tab in a files propertys
   
   System Drive
   
