@@ -1,4 +1,4 @@
-# Policys-Be-Gone
+# Policies-Be-Gone
 A Program that lifts some windows restrictions put in place by schools
 ## Requirements:
   Windows Operating system
