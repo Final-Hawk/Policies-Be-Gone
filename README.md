@@ -22,9 +22,13 @@ A Program that lifts some windows restrictions put in place by schools
   
   Disables all chrome restrictions ie. Extentions, deleting history
   
+  ## Other
   
-  
-  If you want enable a restriction not listed, create an issue on the issues tab and i will try to help!
-  
+ If you want enable a restriction not listed, create an issue on the issues tab and i will try to help!
+ 
+ 
+ 
+ 
+ 
   I AM NOT RESPONIBLE FOR ANY HARM DONE TO YOUR PC, Although tested on mulitiple pcs with no error, i still need to say this to proect myself
  
