@@ -1,35 +1,36 @@
 # Policys-Be-Gone
 A Program that lifts some windows restrictions put in place by schools
-## Requrements:
+## Requirements:
   Windows Operating system
   
-  Administrator access to powershell
+  Administrator access to PowerShell
   
 ## This Program enables:
-  Regestry editor
+  Registry editor
   
   Task Manager
   
-  Removes the need to press ctl alt del on login screeen
+  Removes the need to press ctrl alt del on-login screen
   
   Command Prompt
   
   Right click menu on taskbar
   
-  Security tab in a files propertys
+  Security tab in a file’s properties
   
   System Drive
   
-  Disables all chrome restrictions ie. Extentions, deleting history
+  Disables all chrome restrictions ie. Extensions, deleting history
   
   ## Other
   Both Files need to be in the same directory
   
- If you want enable a restriction not listed, create an issue on the issues tab and i will try to help!
+ If you want to enable a restriction not listed, create an issue on the issues tab and I will try to help!
  
  
  
  
  
-  I AM NOT RESPONIBLE FOR ANY HARM DONE TO YOUR PC, Although tested on mulitiple pcs with no error, i still need to say this to protect myself
+  I AM NOT RESPONIBLE FOR ANY HARM DONE TO YOUR PC, although tested on multiple pcs with no error, I still need to say this to protect myself
+
  
