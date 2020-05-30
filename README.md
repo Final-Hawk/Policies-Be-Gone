@@ -23,6 +23,7 @@ A Program that lifts some windows restrictions put in place by schools
   Disables all chrome restrictions ie. Extentions, deleting history
   
   ## Other
+  Both Files need to be in the same directory
   
  If you want enable a restriction not listed, create an issue on the issues tab and i will try to help!
  
