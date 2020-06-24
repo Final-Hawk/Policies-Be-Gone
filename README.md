@@ -15,9 +15,15 @@ Run the batch file if you are at school and you're backgroud goes black and you 
   
   Command Prompt
   
+  Windows Update
+  
   Right click menu on taskbar
   
+  Startup items in Task Manager
+  
   Security tab in a file’s properties
+  
+  Removes windows Defender restrictions
   
   System Drive
   
