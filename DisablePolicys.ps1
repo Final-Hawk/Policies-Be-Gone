@@ -1,6 +1,3 @@
-netsh interface set interface "WiFi" Disable
-netsh interface set interface "Wi-Fi" Disable
-Start-Sleep 1
 
 Set-ItemProperty -Path Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System -Name DisableRegistryTools -Value 0
 
@@ -46,6 +43,7 @@ REG DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsStore" /f
 
 REG DELETE "HKEY_CURRENT_USER\SOFTWARE\Policies\Google" /f
 
-netsh interface set interface "WiFi" Enable
+REG DELETE "HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge" /f
 
-netsh interface set interface "Wi-Fi" Enable
+REG DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /f
+
