@@ -30,6 +30,7 @@ Run the batch file if you are at school and you're backgroud goes black and you 
   
   System Drive
   
+
   Disables all chrome restrictions ie. Extensions, deleting history
   
   ## Other
@@ -39,8 +40,7 @@ Run the batch file if you are at school and you're backgroud goes black and you 
  
  
  
- 
- 
-  I AM NOT RESPONIBLE FOR ANY HARM DONE TO YOUR PC, although tested on multiple pcs with no error, I still need to say this to protect myself
+
+I AM NOT RESPONSIBLE FOR ANY HARM DONE TO YOUR PC, although tested on multiple pcs with no error, I still need to say this to protect myself
 
  
