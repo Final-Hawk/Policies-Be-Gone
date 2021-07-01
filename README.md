@@ -37,10 +37,6 @@ Run the batch file if you are at school and you're backgroud goes black and you 
   Both Files need to be in the same directory
   
  If you want to enable a restriction not listed, create an issue on the issues tab and I will try to help!
- 
- 
- 
 
-I AM NOT RESPONSIBLE FOR ANY HARM DONE TO YOUR PC, although tested on multiple pcs with no error, I still need to say this to protect myself
 
  
