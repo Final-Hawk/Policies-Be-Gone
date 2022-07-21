@@ -1,9 +1,7 @@
 # Policies-Be-Gone
-Website:https://sites.google.com/view/policies-be-gone/home
 
 A Program that lifts some windows restrictions put in place by schools.
 
-Run the batch file if you are at school and you're backgroud goes black and you cannot access anything, this is an issue with the schools. Run it and than run Policys be gone.exe
 ## Requirements:
   Windows Operating system
   
